@@ -1,6 +1,6 @@
 # Phumelele Mthimunye
 
-task 1
+## Get To know me
 What type of programming experience?
 I have only coded in with-in the carriculum my school has provided me. So i have 
 experience in web programming, some arduino, mostly taught code in c#.
@@ -21,7 +21,6 @@ what are your expectations to this class?
 i expect to learn enough to complete what we want to complete on our global 
 minor project
 
-task 2
 What does IoT entail?
 The internet of things tells us about a network of physical devices built with 
 software and sensors in order to communicate with each other over the internet
@@ -48,8 +47,6 @@ Two of the most commonly used IOT data protocols are Bluetooth and WiFi
 
 2 typical devices
 two of the most commonly used IoT devices include smart watches and smart tvs
-
-task 3 
 
 domain added
 smart home system, smart self driving vehicles, smart manufacturing and retail, 
@@ -85,3 +82,5 @@ really to be honest.
 
 what is the connection to coffee?
 has the same prefix as the espresso
+
+## Practical
