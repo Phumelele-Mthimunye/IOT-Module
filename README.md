@@ -120,4 +120,10 @@ when theres gas detected
 
 ##Project
 
+For our project we generated mock data using a light sensor and a heat sensor that sends data 
+to node red through mqtt 
 
+![1](https://user-images.githubusercontent.com/72005928/151420516-ec15320c-0857-470e-a05f-214c1f034cc1.jpeg)
+![2](https://user-images.githubusercontent.com/72005928/151420513-98e6556d-5efd-4c6e-ab58-c6f18a34df2d.jpeg)
+![3](https://user-images.githubusercontent.com/72005928/151420498-9ec195c5-e61d-45ba-b5c9-857b16913add.jpeg)
+![4](https://user-images.githubusercontent.com/72005928/151420505-2b12b13a-8bbe-4ccd-be42-8d8b47bbc544.jpeg)
