@@ -121,7 +121,7 @@ when theres gas detected
 ##Project
 
 For our project we generated mock data using a light sensor and a heat sensor that sends data 
-to node red through mqtt 
+to node red through mqtt. we can then view the data with the front end we created.
 
 ![1](https://user-images.githubusercontent.com/72005928/151420516-ec15320c-0857-470e-a05f-214c1f034cc1.jpeg)
 ![2](https://user-images.githubusercontent.com/72005928/151420513-98e6556d-5efd-4c6e-ab58-c6f18a34df2d.jpeg)
