@@ -84,3 +84,36 @@ what is the connection to coffee?
 has the same prefix as the espresso
 
 ## Practical
+
+I knew about tinkercad so because i was not able to pic up the hardware early enough 
+i decided to try some circuits on tinkercad virtually instead. With tinkercad you 
+could also code your circuits and simulate them and these are some of the practical 
+applications i tried out.
+
+### Simple LED light circuit
+first is a simple LED light connected to a resistor
+![simple LED](https://user-images.githubusercontent.com/72005928/151412808-4cf28b77-539d-442a-a842-f66827d1d6d9.png)
+
+### Traffic lights
+Next i tried connecting and coding a traffic light. this consited of a red LED light,
+a yellow LED light and a green LED light three resistors the red and green lights are
+coded to shine for four seconds while the yellow light is coded to shine for two seconds
+
+![robot](https://user-images.githubusercontent.com/72005928/151412803-6fb712f2-2bcc-4645-9642-5131265aebf8.png)
+
+### Musical Notes
+This circuit consists of a buzzer, four resistors each with different resistance and 
+four buttons. each button is connected to its own resistor with a different value from 
+the next and as you press each button the buzzer makes a different sound
+
+![Untitled](https://user-images.githubusercontent.com/72005928/151412809-9b97e7ff-b8a5-474e-bb3b-0d769923f8da.png)
+
+### Gas Sensor 
+I decided to challenge myself and do a gas sensor. with a lot of help from GDD (Google 
+Driven Development), i mangaged to succeed. the circuit consists of a buzzer as the alarm
+when gas is detected, a gas sensor, a button to reset, an LCD that tells you to evacuate 
+when theres gas detected
+
+
+![gas sensor](https://user-images.githubusercontent.com/72005928/151412825-36c51150-2a37-4a8d-951b-cda41f91d10b.png)
+![gas sensor 2](https://user-images.githubusercontent.com/72005928/151412820-b1c14803-9d21-4d25-9cf5-494892939d27.png)
