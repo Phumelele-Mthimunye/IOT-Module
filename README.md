@@ -72,7 +72,6 @@ options are created for criminals to exploit citizens.
 -growh is slower than expected due to the complexity of the application.
 -who will pay for the different IoT solutions
 
-task 4 hardware
 why esp8266?
 it is cheap and easily programmable
 
